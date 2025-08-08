@@ -11,3 +11,12 @@ backend/ → Código do servidor WebSocket (Node.js)
 frontend/ → Interface do chat (HTML, CSS e JavaScript)
 
 .env → Configuração da porta do servidor
+
+🛠 Tecnologias Utilizadas
+Node.js
+
+WebSocket (ws)
+
+Dotenv
+
+HTML, CSS e JavaScript
