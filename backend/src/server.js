@@ -24,5 +24,5 @@ wss.on('connection', (ws) => {
     });
 
     // Exibe uma mensagem no terminal indicando que um cliente se conectou
-    console.log("Client connected");
+    console.log("Cliente conectado");
 });
